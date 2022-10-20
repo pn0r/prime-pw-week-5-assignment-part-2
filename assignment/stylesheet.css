@@ -1,0 +1,19 @@
+.none {
+  color: grey;
+  background-color:midnightblue;
+  text-align: center;
+  }
+
+body {
+  margin: 0;
+  }
+
+.some {
+    padding: 1em;
+    background-color:lightgrey;
+  }
+
+.big {
+    background-image: url("record.png");
+    background-repeat: repeat;
+  }
